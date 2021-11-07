@@ -2,8 +2,6 @@
 #include <Adafruit_NeoMatrix.h>
 #include <Adafruit_NeoPixel.h>
 
-#define CLIENT_NAME "espMatrix"
-
 const int PIN = 13;
 
 // MATRIX DECLARATION:
